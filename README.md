@@ -10,4 +10,4 @@ We can summarize the flow of data through a Redux app with this diagram. It repr
 2. the store runs the reducer function to calculate a new state
 3. the UI reads the new state to display the new values
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/madhavms/learn-redux/blob/master/src/images/ReduxDataFlowDiagram.gif)
