@@ -3,7 +3,7 @@ import {increment, decrement, reset} from './actions/count';
 
 function App() {
 
-  const counter = useSelector(state => state.counter);
+  const counter = useSelector(state => state.counter.count);
   const dispatch = useDispatch();
   const vh = window.innerHeight;
   console.log(vh,'hey');
