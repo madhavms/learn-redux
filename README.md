@@ -3,6 +3,8 @@
 This is a React counter application created to understand the functionalities of 
 Redux state management. 
 
+![alt text](https://github.com/madhavms/learn-redux/blob/master/src/images/ReduxCounter.gif)
+
 ## What is Redux?
 It helps to understand what this "Redux" thing is in the first place. What does it do? What problems does it help me solve? Why would I want to use it?
 
