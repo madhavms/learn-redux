@@ -38,7 +38,8 @@ They are not allowed to modify the existing state. Instead, they must make immut
 They must not do any asynchronous logic or other "side effects"
 
 ```
-A "side effect" is any change to state or behavior that can be seen outside of returning a value from a function. Some common kinds of side effects are things like:
+A "side effect" is any change to state or behavior that can be seen outside of returning 
+a value from a function. Some common kinds of side effects are things like:
 
 Logging a value to the console
 Saving a file
